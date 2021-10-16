@@ -1,0 +1,3 @@
+[submodule "RRTMG_LW"]
+	path = RRTMG_LW
+	url = https://github.com/AER-RC/RRTMG_LW.git
